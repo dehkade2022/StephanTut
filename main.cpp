@@ -1,3 +1,1 @@
-first line
-
-this an perfect line 
+int main() {}
